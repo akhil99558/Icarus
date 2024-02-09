@@ -11,18 +11,10 @@
 - See `control/controller.m` for implementation of the PD controller.
 - Visualization below. Desired (blue) vs Actual (red)
 
-#### Trajectory 1: Step
-
-<img src="gifs/p1p1_step.gif" alt="step" width="270"> <img src="imgs/p1p1_step_p.jpg" alt="step" width="270"> <img src="imgs/p1p1_step_v.jpg" alt="step" width="270">
-
-
-#### Trajectory 2: Circle
-
-<img src="gifs/p1p1_circle.gif" alt="step" width="270"> <img src="imgs/p1p1_circle_p.jpg" alt="step" width="270"> <img src="imgs/p1p1_circle_v.jpg" alt="step" width="270">
-
-#### Trajectory 2: Diamond
-
-<img src="gifs/p1p1_diamond.gif" alt="step" width="270"> <img src="imgs/p1p1_diamond_p.jpg" alt="step" width="270"> <img src="imgs/p1p1_diamond_v.jpg" alt="step" width="270">
+#### Trajectory can be given in different ways such as:
+- Circle
+- Step
+-  Diamond
 
 ## Path Planning and Trajectory Optimization
 
